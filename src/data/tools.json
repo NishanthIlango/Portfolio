@@ -1,0 +1,18 @@
+[
+    {
+        "title": "VS Code",
+        "imageSrc": "tools/vs.png"
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "tools/postman.png"
+    },
+    {
+      "title": "Anaconda",
+      "imageSrc": "tools/conda.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "tools/figma.png"
+    }
+  ]

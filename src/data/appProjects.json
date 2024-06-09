@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Gemini ChatBot app",
+      "imageSrc": "projects/gemini.png",
+      "description": "This is a project made to learn the latest languages by building an app using Flutter and Gemini.",
+      "source": "https://github.com/NishanthIlango/gemini_chatbot"
+    },
+    {
+      "title": "News App",
+      "imageSrc": "projects/News App.png",
+      "description": "This is a project made to learn the latest languages by building an app using Flutter and REST API.",
+      "source": "https://github.com/NishanthIlango/News-App"
+    },
+    {
+      "title": "Document Saver App",
+      "imageSrc": "projects/Document.png",
+      "description": "In this flutter app, I have integrated firebase with flutter which displays details from firebase storage.",
+      "source": "https://github.com/NishanthIlango/Document_saver_app"
+    }
+  ]

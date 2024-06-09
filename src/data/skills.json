@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Flutter",
+        "imageSrc": "skills/flutter.png"
+    },
+    {
+        "title": "Firebase",
+        "imageSrc": "skills/firebase.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "skills/js.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    }
+  ]
