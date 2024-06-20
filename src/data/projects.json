@@ -24,7 +24,7 @@
         "title": "Todo Website",
         "imageSrc": "projects/Todo.png",
         "description": "This is a project made to learn the website to fetch the GET HTTP API calls.",
-        "demo": "https://mywikipedia25.ccbp.tech",
-        "source": "https://github.com/NishanthIlango/Wikipedia-Search-Website"
+        "demo": "http://mytodoslists25.ccbp.tech/",
+        "source": "https://github.com/NishanthIlango/My-Todo-List"
     }
   ]
